@@ -94,6 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Your Name - [parthivendra_](https://twitter.com/parthivendra_)
+- Parthivendra Singh - [parthivendra_](https://twitter.com/parthivendra_)
 - Project Link: [https://github.com/Parthivendra/CLI-ToDo-List-Manager-Python](https://github.com/Parthivendra/CLI-ToDo-List-Manager-Python)
 
